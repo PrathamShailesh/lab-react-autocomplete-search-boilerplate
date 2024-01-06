@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.suggestions{
+ /* border: 1px red solid; */
+ width: min-content;
+ text-align: left;
+ padding: 0 15px;
+
+}
+input{
+  height: 6vh;
+  width: 14vw;
+}
+
